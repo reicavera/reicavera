@@ -1,16 +1,13 @@
-### Hi there 👋
+### Sobre Mim
+Estudade de Graduação de Ciência da computação na UFBA
 
-<!--
-**reicavera/reicavera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+2 anos de experiência em desenvolvimento de Back-end com NodeJS
 
-Here are some ideas to get you started:
+### Links Importantes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Gitlab](https://gitlab.com/reicavera)
+
+[Linkedin](https://www.linkedin.com/in/matheus-alves-guimarães-0038b2215/)
+
+### Detalhes
+[![Anurag's Github stats](http://github-readme-stats.vercel.app/api/top-langs/?username=reicavera&layout=compact&theme=dark)](http://github.com/anuraghazra/github-readme-stats)
